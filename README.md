@@ -1,13 +1,13 @@
 
 <img width="1000" alt="image" src="https://github.com/adpr0909">
 
-<h1 align="center">Hii! I am Priyanka</h1>
+<h1 align="center">Hi, I am Priyanka</h1>
 
 <h3 align="center"><img align="right" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" max-width="200" height="200"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvharsh&label=Profile%20views&color=f81894&style=flat" alt="mvharsh" /> </p>
 
-[![Website Badge](https://img.shields.io/badge/-Portfolio-FF4B4B?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshinivivek.netlify.app/)](https://harshinivivek.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-FF4B4B?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshinivivek.netlify.app/)]
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=InVision&logoColor=white)](https://www.linkedin.com/in/adpr0909/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:)
 [![Github](https://img.shields.io/github/followers/mvharsh?label=Follow&style=social)](https://github.com/adpr0909)
@@ -32,11 +32,11 @@ I’m always curious, ready to learn, and eager to contribute to exciting projec
 <h3 align="left">🔎 Find me on:</h3>
 <p>
 <a href="https://linkedin.com/in/Priyanka/" ><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="Priyanka" height="50" width="50" target="_blank"/></a> 
-<a href="https://leetcode.com/harshiniv/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" height="50" width="50" /></a>
+<a href="https://leetcode.com//" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" height="50" width="50" /></a>
 <a href="https://github.com/adpr0909/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" height="50" width="50" /></a>  &nbsp;
-<a href="https://www.hackerrank.com/harshinivivekm?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height="50" width="50" /></a>
-<a href="https://www.sololearn.com/profile/24069672" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" height="50" width="50" /></a>
-<a href="https://medium.com/@harshinivivekm" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height="50" width="50" /></a>
+<a href="https://www.sololearn.com/profile/" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" height="50" width="50" /></a>
+<a href="https://medium.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" height="50" width="50" /></a>
 <!--
 <a href="https://www.hackerearth.com/@" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" height="50" width="50" /></a> 
 <a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="50" width="50" /></a>
@@ -181,15 +181,12 @@ I’m always curious, ready to learn, and eager to contribute to exciting projec
 ---
 ### 🛠️ Workshops & Events 📅
 
-- 💡 **IBM Workshop on Leveraging Artificial Intelligence and Generative AI**, AMCS, TCE (Sep 2024)
-- 💡 **DRDO Workshop on Explainable AI (XAI)**, AMCS, TCE (Dec 2024)
-- 💻 **CAT Hackathon 24**, Caterpillar, TCE (Jun 2024)
-- 🌟 **Idea Harvest 2024**, E-Cell, TCE (Mar 2024)
-- 🧠 **Machine Learning & Data Science**, NIT Trichy (Jun 2023)
-- 📐 **Linear Algebra for CS & ML**, NPTEL (Nov 2022)
-- 👩‍💻 **36 Hrs Hackathon – Battle of Brackets**, TCE (Mar 2023)
-- 📶 **IoT Expo ’23**, TCE (Apr 2023)
-- ☁️ **IBM Cloud** Webinar Series (Sep 2022)
+- 💡 **IBM Workshop on Leveraging Artificial Intelligence and Generative AI**, A
+- 💡 **DRDO Workshop on Explainable AI (XAI)**, A
+- 💻 **CAT Hackathon 24**, 
+- 🌟 **Idea Harvest 2024**, E
+- 🧠 **Machine Learning & Data Science**, 
+- ☁️ **IBM Cloud**
 
 ---  
 
