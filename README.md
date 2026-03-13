@@ -5,12 +5,12 @@
 
 <h3 align="center"><img align="right" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" max-width="200" height="200"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mvharsh&label=Profile%20views&color=f81894&style=flat" alt="mvharsh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adpr0909&label=Profile%20views&color=f81894&style=flat" alt="adpr0909" /> </p>
 
 [![Website Badge](https://img.shields.io/badge/-Portfolio-FF4B4B?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshinivivek.netlify.app/)]
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=InVision&logoColor=white)](https://www.linkedin.com/in/adpr0909/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:)
-[![Github](https://img.shields.io/github/followers/mvharsh?label=Follow&style=social)](https://github.com/adpr0909)
+[![Github](https://img.shields.io/github/followers/adpr0909?label=Follow&style=social)](https://github.com/adpr0909)
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
@@ -194,31 +194,31 @@ I’m always curious, ready to learn, and eager to contribute to exciting projec
 
 Here’s a showcase of some of my key projects:
 
-- 💳 **[Credit Card Offer Acceptance Prediction](https://github.com/mvharsh/Credit-Card-Offer-Acceptance-Prediction)**  
+- 💳 **[Credit Card Offer Acceptance Prediction](https://github.com/adpr0909/Credit-Card-Offer-Acceptance-Prediction)**  
   Using SHAP, Fairlearn, and AIF360 to build an ethically-aware deep learning model.
 
-- 📈 **[Reliance Trends Sales Analytics & Forecasting Dashboard](https://github.com/mvharsh/Trends-Forecasting-Dashboard)**  
+- 📈 **[Reliance Trends Sales Analytics & Forecasting Dashboard](https://github.com/adpr0909/Trends-Forecasting-Dashboard)**  
   A Streamlit dashboard for insightful sales analysis and forecasting.
 
-- 📊 **[Blinkit Sales Dashboard](https://github.com/mvharsh/Blinkit-Sales-Dashboard)**  
+- 📊 **[Blinkit Sales Dashboard](https://github.com/adpr0909/Blinkit-Sales-Dashboard)**  
   Power BI dashboard for data-driven decision-making.
 
-- 🐔 **[CluckCare – Chicken Disease Prediction](https://github.com/mvharsh/CluckCare)**  
+- 🐔 **[CluckCare – Chicken Disease Prediction](https://github.com/adpr0909/CluckCare)**  
   A CNN-based deep learning system to detect chicken diseases.
 
-- 📚 **[Movie and Book Recommendations with Genre Mapping](https://github.com/mvharsh/Movie-and-Book-Recommendations)**  
+- 📚 **[Movie and Book Recommendations with Genre Mapping](https://github.com/adpr0909/Movie-and-Book-Recommendations)**  
   A recommendation engine using Twitter Sentiment Analysis and Genre Mapping.
 
-- 🧵 **[Productivity Predictor for Garment Manufacturing](https://github.com/mvharsh/Productivity-Predictor)**  
+- 🧵 **[Productivity Predictor for Garment Manufacturing](https://github.com/adpr0909/Productivity-Predictor)**  
   Predicting productivity in garment manufacturing using ML and Flask.
 
-- 📈 **[Impact of Personality Traits on Academic Performance](https://github.com/mvharsh/Personality-and-Performance)**  
+- 📈 **[Impact of Personality Traits on Academic Performance](https://github.com/adpr0909/Personality-and-Performance)**  
   Regression and correlation analysis with the Big Five Model.
 
-- 🎓 **[Student Achievement Management System](https://github.com/mvharsh/Student-Achievement-Management-System)**  
+- 🎓 **[Student Achievement Management System](https://github.com/adpr0909/Student-Achievement-Management-System)**  
   A web-based tool to track academic progress.
 
-- 🎮 **[Quiz Game with OOPS and C++](https://github.com/mvharsh/Quiz-Game-cpp)**  
+- 🎮 **[Quiz Game with OOPS and C++](https://github.com/adpr0909/Quiz-Game-cpp)**  
   A fun quiz game built in C++ with object-oriented concepts.
 
 <h3 align="left">📊 Leetcode Stats:</h3>
@@ -230,12 +230,12 @@ Here’s a showcase of some of my key projects:
 ---  
 
 <h3 align="left">📊 Github Stats:</h3> <br/>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvharsh" alt="mvharsh" /></a> </p> -->
-<!-- <p><img src="https://github-profile-trophy.vercel.app/?username=mvharsh&row=1&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true" alt="mvharsh" /></p>  -->
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharsh&show_icons=true&locale=en&layout=compact&no-bg=true&theme=transparent" alt="mvharsh" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=mvharsh&show_icons=true&no-bg=true&theme=transparent" alt="mvharsh" max-width="175" height="165" /></p>
-<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvharsh&no-bg=true&theme=transparent" alt="mvharsh" /></p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adpr0909" alt="adpr0909" /></a> </p> -->
+<!-- <p><img src="https://github-profile-trophy.vercel.app/?username=adpr0909&row=1&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true" alt="adpr0909" /></p>  -->
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adpr0909&show_icons=true&locale=en&layout=compact&no-bg=true&theme=transparent" alt="adpr0909" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=adpr0909&show_icons=true&no-bg=true&theme=transparent" alt="adpr0909" max-width="175" height="165" /></p>
+<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=adpr0909&no-bg=true&theme=transparent" alt="adpr0909" /></p> -->
 
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvharsh&theme=transparent" alt="mvharsh" /></p>
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adpr0909&theme=transparent" alt="adpr0909" /></p>
 
 
 
